@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jairam:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2026-01-03T08:15:23.866291567Z"
+    description: A Helm chart for Kubernetes
+    digest: 0683e042b27dbedcdf084fdf1adc805d09c98eef245be386d969347d67286c3c
+    name: jairam
+    type: application
+    urls:
+    - jairam-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-03T08:15:23.865454266Z"
